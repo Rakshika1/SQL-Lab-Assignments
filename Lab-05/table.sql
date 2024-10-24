@@ -8,7 +8,8 @@ CREATE TABLE EmployeeDetails(
     Salary INT,
     JoiningDate DATETIME,        -- Use DATETIME for proper date-time handling
     Department VARCHAR(255),
-    Gender VARCHAR(255)
+    Gender VARCHAR(255)git branch
+
 );
 
 -- Create ProjectDetails table
